@@ -1,5 +1,8 @@
 package ec.gob.mag.scsemillasmicro.domain;
 
+public class Topografia {
+
+
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -23,4 +26,5 @@ public class Topografia {
 	private Long topid;
 	
 	
+
 }
